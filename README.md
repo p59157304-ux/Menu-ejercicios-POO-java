@@ -60,24 +60,24 @@ classDiagram
     Ejercicio <|-- EjercicioN : hereda
      
 ## Cómo ejecutar
-    Clonar el repositorio
-    Compilar: javac *.java
-    Ejecutar: java Main
+    1. Clonar el repositorio
+    2. Compilar: javac *.java
+    3. Ejecutar: java Main
     
 ## Ejercicios Incluidos
-    Invertir una Cadena
-    Verificar Palindromo
-    Contar Vocales/Consonantes
-    Invertir Entero
-    Mayor de 3
-    Fibaonacci
-    Número Primo
-    Factorial
-    Armstrong
-    Min/Max Arreglo
-    Número Faltante
-    Contar Palabras
-    Año Bisiesto
-    No Repetido
-    Invertir Arreglo
-    Verificar Subcadena
+    1. Invertir una Cadena
+    2. Verificar Palindromo
+    3. Contar Vocales/Consonantes
+    4. Invertir Entero
+    5. Mayor de 3
+    6. Fibaonacci
+    7. Número Primo
+    8. Factorial
+    9. Armstrong
+    10. Min/Max Arreglo
+    11. Número Faltante
+    12. Contar Palabras
+    13. Año Bisiesto
+    14. No Repetido
+    15. Invertir Arreglo
+    16. Verificar Subcadena
